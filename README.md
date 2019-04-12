@@ -1,0 +1,1 @@
+pte is a tool which can extract table from pdf files. pte can detect the table location in pdf and table cells also can be recognize.
